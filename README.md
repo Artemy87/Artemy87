@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Artemii (my username @Artemy87)
-- 👀 I am interested in development and, in particular, JavaScript, as well as libraries React, Redux
+- 👀 I am interested in development and, in particular, JavaScript, as well as libraries TypeSctipt, React, Redux
 - 🤝 I hope to work together on interesting projects, as well as gain experience
 - 📫 How to reach me - artemij87work@gmail.com
 
