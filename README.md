@@ -5,8 +5,6 @@
 
 🛠 My skills: TYPESCRIPT, REACT, REDUX, REDUX-THUNK, FORMIK, JEST, STORYBOOK.
 
-🤝 I hope to work together on interesting projects, as well as gain experience.
-
 📪 Contact me: artemij87work@gmail.com
 
 <!---
