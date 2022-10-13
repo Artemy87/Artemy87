@@ -1,13 +1,9 @@
-👋 Hi, I am Artemy (@Artemy87).
+Header
 
+About me
 
-👀 I'm interested in application development.
+Languages and Tools
 
-🛠 My skills: TYPESCRIPT, REACT, REDUX, REDUX-THUNK, FORMIK, JEST, STORYBOOK.
+Follgitow me
 
-📪 Contact me: artemij87work@gmail.com
-
-<!---
-Artemy87/Artemy87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Projects
