@@ -4,7 +4,7 @@
  <hr>
   <a href="https://profile-summary-for-github.com/user/Artemy87">
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artemy87&layout=compact&langs_count=7&theme=dark&bg_color=000&title_color=fff&text_color=fff"/>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Artemy87&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff&count_private=true">
     <hr>
     <img width="842em" src="https://activity-graph.herokuapp.com/graph?username=Artemy87&theme=xcode&bg_color=000" />
@@ -36,7 +36,6 @@
 ![Flex Layout](https://img.shields.io/badge/<Flex_Layout>-4a4c4f?style=for-the-badge&logo=Fles_Layout)
 ![Material UI](https://img.shields.io/badge/<Material_UI>-4a4c4f?style=for-the-badge&logo=Material_UI)
 ![Figma](https://img.shields.io/badge/<Figma>-4a4c4f?style=for-the-badge&logo=Figma)
-
 
 ### Follow me
 
