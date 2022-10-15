@@ -41,10 +41,10 @@
 [![Linkedin](https://img.shields.io/badge/<linkedin>-4a4c4f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/artemiy/)
 [![Telegram](https://img.shields.io/badge/<telegram>-4a4c4f?style=for-the-badge&logo=telegram)](https://t.me/acidReaction)
 <hr/>
-<div>
+<div align="center">
     <a href="https://www.codewars.com/users/acid00" target="_blank">
       <img  src="https://www.codewars.com/users/acid00/badges/large" width="300"/>
     </a>
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Artemy87}/count.svg" /></p>
-</div>
+</div ali>
 
