@@ -2,7 +2,7 @@
 
 <hr/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=6000&color=00bf13&size=30&width=1000&lines=Hi!+My+name`s+Artemii;I`m+front-end+developer;My+techonolgy+stack:+JS/TS/REACT/REDUX/TOOLKIT;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=6000&color=00bf13&size=30&width=1000&lines=Hi!+My+name+is+Artemii;I`m+front-end+developer;My+techonolgy+stack:+JS/TS/REACT/REDUX/TOOLKIT;)](https://git.io/typing-svg)
 
 <div align="center">
  <hr>
