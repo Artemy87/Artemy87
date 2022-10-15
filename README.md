@@ -1,4 +1,6 @@
-[![Header](https://github.com/Artemy87/Artemy87/blob/master/assets/mario.gif)](https://www.youtube.com/watch?v=R3S0CxAv0vg&t=0s)
+               [![Header](https://github.com/Artemy87/Artemy87/blob/master/assets/mario.gif)](https://www.youtube.com/watch?v=R3S0CxAv0vg&t=0s)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&color=00bf13&size=30&width=1000&lines=Hi!+My+name`s+Artemii;I`m+front-end+developer;My+techonolgy+stack:+JS(ES6)+/+TYPESCRIPT+/+REACT+/+REDUX+/+HTML5+/+CSS3+/+Grid+Layout)](https://git.io/typing-svg)
 
 <div align="center">
  <hr>
@@ -15,27 +17,31 @@
     </a>
   </div>
 
+let for-the-badge = {border-radius: 15px};
+
 ### Languages and Tools
-![JavaScript](https://img.shields.io/badge/<JavaScript>-4a4c4f?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/<TypeScript>-4a4c4f?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/<React>-4a4c4f?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/<Redux>-4a4c4f?style=for-the-badge&logo=Redux)
-![Redux-Toolkit](https://img.shields.io/badge/<Redux_Toolkit>-4a4c4f?style=for-the-badge&logo=redux_toolkit)
-![Redux-Thunk](https://img.shields.io/badge/<Redux_Thunk>-4a4c4f?style=for-the-badge&logo=redux_thunk)
-![react-hook-form](https://img.shields.io/badge/<react_hook_form>-4a4c4f?style=for-the-badge&logo=reacthookform)
-![Rest API](https://img.shields.io/badge/<Rest_API>-4a4c4f?style=for-the-badge&logo=Rest_API)
-![Axios](https://img.shields.io/badge/<Axios>-4a4c4f?style=for-the-badge&logo=Axios)
-![Storybook](https://img.shields.io/badge/<Storybook>-4a4c4f?style=for-the-badge&logo=Storybook)
-![Postman](https://img.shields.io/badge/<Postman>-4a4c4f?style=for-the-badge&logo=Postman)
-![Jest](https://img.shields.io/badge/<Jest>-4a4c4f?style=for-the-badge&logo=Jest)
-![Yarn](https://img.shields.io/badge/<Yarn>-4a4c4f?style=for-the-badge&logo=Yarn)
-![npm](https://img.shields.io/badge/<npm>-4a4c4f?style=for-the-badge&logo=npm)
-![HTML5](https://img.shields.io/badge/<HTML5>-4a4c4f?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/<CSS3>-4a4c4f?style=for-the-badge&logo=CSS3)
-![Grid Layout](https://img.shields.io/badge/<Grid_Layout>-4a4c4f?style=for-the-badge&logo=Grid_Layout)
-![Flex Layout](https://img.shields.io/badge/<Flex_Layout>-4a4c4f?style=for-the-badge&logo=Fles_Layout)
-![Material UI](https://img.shields.io/badge/<Material_UI>-4a4c4f?style=for-the-badge&logo=Material_UI)
-![Figma](https://img.shields.io/badge/<Figma>-4a4c4f?style=for-the-badge&logo=Figma)
+
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=JavaScript&label=&color=f5ce42&labelColor=000000)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&logo=typescript&message=TypeScript&label=&color=54a4ff&labelColor=000000)
+![React](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React&label=&color=1873db&labelColor=000000)
+![Redux](https://img.shields.io/static/v1?style=for-the-badge&logo=redux&message=Redux&label=&color=902cf5&labelColor=000000)
+![Redux-Toolkit](https://img.shields.io/static/v1?style=for-the-badge&logo=reduxtoolkit&message=Redux-Toolkit&label=&color=ae6cf0&labelColor=000000)
+![Redux-Thunk](https://img.shields.io/static/v1?style=for-the-badge&logo=reduxthunk&message=Redux-Thunk&label=&color=c284d1&labelColor=000000)
+![react-hook-form](https://img.shields.io/static/v1?style=for-the-badge&logo=reacthookform&message=react-hook-form&label=&color=ff36a1&labelColor=000000)
+![Axios](https://img.shields.io/static/v1?style=for-the-badge&logo=axios&message=axios&label=&color=2b2b2b&labelColor=000000)
+![Storybook](https://img.shields.io/static/v1?style=for-the-badge&logo=storybook&message=storybook&label=&color=fc72bc&labelColor=000000)
+![Postman](https://img.shields.io/static/v1?style=for-the-badge&logo=postman&message=postman&label=&color=ff683b&labelColor=000000)
+![Jest](https://img.shields.io/static/v1?style=for-the-badge&logo=jest&message=jest&label=&color=ed7297&labelColor=000000)
+![Yarn](https://img.shields.io/static/v1?style=for-the-badge&logo=yarn&message=yarn&label=&color=2b8dfc&labelColor=000000)
+![npm](https://img.shields.io/static/v1?style=for-the-badge&logo=npm&message=npm&label=&color=F05032&labelColor=000000)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=html5&label=&color=f55d2f&labelColor=000000)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&message=css3&label=&color=2a8af7&labelColor=000000)
+![Grid](https://img.shields.io/static/v1?style=for-the-badge&logo=grid&message=grid&label=&color=21963b&labelColor=000000)
+![Flex](https://img.shields.io/static/v1?style=for-the-badge&logo=flex&message=flex&label=&color=F05032&labelColor=000000)
+![Material_UI](https://img.shields.io/static/v1?style=for-the-badge&logo=materialui&message=material_ui&label=&color=0a7ac9&labelColor=000000)
+![Figma](https://img.shields.io/static/v1?style=for-the-badge&logo=figma&message=figma&label=&color=089c5e&labelColor=000000)
+
+
 
 ### Follow me
 
