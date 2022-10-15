@@ -12,12 +12,12 @@
     <img width="842em" src="https://activity-graph.herokuapp.com/graph?username=Artemy87&theme=xcode&bg_color=000" />
   </a>
   <div>
+  <br/>
     <a href="https://www.codewars.com/users/acid00" target="_blank">
       <img  src="https://www.codewars.com/users/acid00/badges/large" width="300"/>
     </a>
   </div>
 
-let for-the-badge = {border-radius: 15px};
 
 ### Languages and Tools
 
