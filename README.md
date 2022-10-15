@@ -1,4 +1,4 @@
-               [![Header](https://github.com/Artemy87/Artemy87/blob/master/assets/mario.gif)](https://www.youtube.com/watch?v=R3S0CxAv0vg&t=0s)
+[![Header](https://github.com/Artemy87/Artemy87/blob/master/assets/mario.gif)](https://www.youtube.com/watch?v=R3S0CxAv0vg&t=0s)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&color=00bf13&size=30&width=1000&lines=Hi!+My+name`s+Artemii;I`m+front-end+developer;My+techonolgy+stack:+JS(ES6)+/+TYPESCRIPT+/+REACT+/+REDUX+/+HTML5+/+CSS3+/+Grid+Layout)](https://git.io/typing-svg)
 
@@ -41,10 +41,7 @@ let for-the-badge = {border-radius: 15px};
 ![Material_UI](https://img.shields.io/static/v1?style=for-the-badge&logo=materialui&message=material_ui&label=&color=0a7ac9&labelColor=000000)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&logo=figma&message=figma&label=&color=089c5e&labelColor=000000)
 
-
-
 ### Follow me
-
 [![Linkedin](https://img.shields.io/badge/<linkedin>-4a4c4f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/artemiy/)
 [![Telegram](https://img.shields.io/badge/<telegram>-4a4c4f?style=for-the-badge&logo=telegram)](https://t.me/acidReaction)
 
