@@ -45,6 +45,7 @@
     <a href="https://www.codewars.com/users/acid00" target="_blank">
       <img  src="https://www.codewars.com/users/acid00/badges/large" width="300"/>
     </a>
+    <br/>
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Artemy87}/count.svg" /></p>
-</div ali>
+</div>
 
