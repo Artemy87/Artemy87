@@ -17,7 +17,7 @@
       <img  src="https://www.codewars.com/users/acid00/badges/large" width="300"/>
     </a>
   </div>
-
+</div>
 
 ### Languages and Tools
 
@@ -46,4 +46,3 @@
 [![Telegram](https://img.shields.io/badge/<telegram>-4a4c4f?style=for-the-badge&logo=telegram)](https://t.me/acidReaction)
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Artemy87}/count.svg" /></p>
-</div>
