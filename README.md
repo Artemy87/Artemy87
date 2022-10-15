@@ -1,5 +1,5 @@
 [![Header](https://github.com/Artemy87/Artemy87/blob/master/assets/mario.gif)](https://www.youtube.com/watch?v=R3S0CxAv0vg&t=0s)
-<br/>
+<hr/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&color=00bf13&size=30&width=1000&lines=Hi!+My+name`s+Artemii;I`m+front-end+developer;My+techonolgy+stack:+JS(ES6)+/+TYPESCRIPT+/+REACT+/+REDUX+/+HTML5+/+CSS3+/+Grid+Layout)](https://git.io/typing-svg)
 
 <div align="center">
@@ -44,5 +44,5 @@
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/<linkedin>-4a4c4f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/artemiy/)
 [![Telegram](https://img.shields.io/badge/<telegram>-4a4c4f?style=for-the-badge&logo=telegram)](https://t.me/acidReaction)
-
+<hr/>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Artemy87}/count.svg" /></p>
